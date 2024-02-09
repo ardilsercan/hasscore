@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: types-croniter
+Version: 1.0.6
+Summary: Typing stubs for croniter
+Home-page: https://github.com/python/typeshed
+License: Apache-2.0 license
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Typing :: Stubs Only
+Description-Content-Type: text/markdown
+
+## Typing stubs for croniter
+
+This is a PEP 561 type stub package for the `croniter` package.
+It can be used by type-checking tools like mypy, PyCharm, pytype etc. to check code
+that uses `croniter`. The source for this package can be found at
+https://github.com/python/typeshed/tree/master/stubs/croniter. All fixes for
+types and metadata should be contributed there.
+
+See https://github.com/python/typeshed/blob/master/README.md for more details.
+This package was generated from typeshed commit `a40d79a4e63c4e750a8d3a8012305da942251eb4`.
+
+
